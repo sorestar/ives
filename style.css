@@ -1,6 +1,6 @@
  @font-face {
   font-family: 'blacklisted';
-         src:url('fonts/Blacklisted.ttf') format('truetype');
+         src:url('font/blacklisted') format('truetype');
    font-weight: 800;
     font-style: normal;
 }
